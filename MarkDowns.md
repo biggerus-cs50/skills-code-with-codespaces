@@ -16,3 +16,17 @@ __This is bold and *italic* text__ using double underscores for bold and single 
 ![Link an image.](/learn/azure-devops/shared/media/mara.png)
 
 [Link to Microsoft Training](/training)
+
+1. First
+1. Second
+1. Third
+
+- First
+  - Nested
+- Second
+- Third
+
+First|Second
+-|-
+1|2
+3|4
