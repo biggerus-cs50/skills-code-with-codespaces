@@ -59,7 +59,7 @@ def main():
     print("Hello World")
 ```
 
-@githubteacher
+@biggerus-cs50
 
 - [x] First task
 - [x] Second task
