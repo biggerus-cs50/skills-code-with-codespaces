@@ -58,3 +58,13 @@ var first = 1;
 def main():
     print("Hello World")
 ```
+
+@githubteacher
+
+- [x] First task
+- [x] Second task
+- [ ] Third task
+
+/code
+print("Hello")
+
