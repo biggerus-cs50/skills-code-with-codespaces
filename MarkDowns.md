@@ -32,3 +32,15 @@ First|Second
 3|4
 
 > This is quoted text.
+
+Here is a<br />line break
+
+This is code.
+`git push -u origin md-test`
+
+This is code segment.
+```markdown
+var first = 1;
+var second = 2;
+var sum = first + second;
+```
