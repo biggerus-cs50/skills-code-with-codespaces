@@ -11,3 +11,7 @@ __This is bold and *italic* text__ using double underscores for bold and single 
 \_This is all \*\*plain\*\* text\_.
 
 \_This is all \*\*plain\*\* text\_.
+
+###### This is H6 text
+![Link an image.](/learn/azure-devops/shared/media/mara.png)
+[Link to Microsoft Training](/training)
